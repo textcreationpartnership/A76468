@@ -1,0 +1,460 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A brief treatise of education, with a particular respect to the children of great personages. : For the use of His Royal Highness, the Prince. / By John Bettam, D.F.S. and tutor to His Highness.</title>
+            <author>Betham, John, d. 1709.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1693</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 31 KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76468</idno>
+            <idno type="STC">Wing B2059bA</idno>
+            <idno type="STC">ESTC R175281</idno>
+            <idno type="EEBO-CITATION">45504295</idno>
+            <idno type="OCLC">ocm 45504295</idno>
+            <idno type="VID">171601</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76468)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171601)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2578:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A brief treatise of education, with a particular respect to the children of great personages. : For the use of His Royal Highness, the Prince. / By John Bettam, D.F.S. and tutor to His Highness.</title>
+                  <author>Betham, John, d. 1709.</author>
+               </titleStmt>
+               <extent>[3], 2-22 p., [1] leaf of plates : port.  </extent>
+               <publicationStmt>
+                  <publisher>by P. Lauren, near the Louvre,</publisher>
+                  <pubPlace>Imprinted at Paris :</pubPlace>
+                  <date>1693.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Foot of p. 22 has: The end of the first part.</note>
+                  <note>Page 2 occurs twice; page 10 is numbered 9.</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Education of princes --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-12</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="frontispiece">
+            <pb facs="tcp:171601:1" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:171601:2"/>
+            <p>
+               <figure>
+                  <p>IAMES FRANCIS EDWARD PRINCE OF WALES &amp; PRINCE AND STEWARD OF SCOTL: &amp;</p>
+                  <q>ICH DIEN</q>
+                  <figDesc>portrait of James Francis Edward Stuart</figDesc>
+               </figure>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:171601:2" rendition="simple:additions"/>
+            <p>A Brief Treatiſe OF <hi>Education,</hi> WITH A Particular Reſpect to the Children of <hi>Great Perſonages.</hi> For the Uſe of His Royal Highneſs, THE PRINCE.</p>
+            <p>By <hi>John Bettam,</hi> D. F. S. and Tutor to His Highneſs.</p>
+            <p>Imprinted at <hi>Paris</hi> by <hi>P. Laure<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> near the <hi>Louvre,</hi> 1693.</p>
+            <pb facs="tcp:171601:3"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:171601:3" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:171601:4"/>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb n="2" facs="tcp:171601:4"/>
+            <head>A Brief Treatiſe OF EDUCATION.</head>
+            <head type="sub">The Firſt Part.</head>
+            <p>A Young Prince is a Child of the Al<g ref="char:EOLhyphen"/>migh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y, ſet apart by His Divine Pro<g ref="char:EOLhyphen"/>vidence for Employments of the greateſt Importance, but withal of the greateſt Danger; and who may prove a great In<g ref="char:EOLhyphen"/>ſtrument, either of <hi>God</hi>'s Mercy, or wrath on Men.</p>
+            <p n="2">2. The end propoſed in his Educaion ought to be the r<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ndring h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m able to com<g ref="char:EOLhyphen"/>ply with all the Duties to which his Con<g ref="char:EOLhyphen"/>dition obliges him, and to prepare him a<g ref="char:EOLhyphen"/>gainſt all the dangers he is thereby ex<g ref="char:EOLhyphen"/>poſed to.</p>
+            <p n="3">
+               <pb n="2" facs="tcp:171601:5"/> 3. A Prince is not his own: He is the State's. <hi>God</hi> gives him to the Peo<g ref="char:EOLhyphen"/>ple in making him Prince, To them he is accountable for all his time. And, as ſoon as he arrives ar years of Diſcretion, he becomes guilty of a double Fault, if he apply not himſelf with all the care he can to ſuch Studies and Exerciſes, as may diſpoſe h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m to perform all the devoi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s of a Prince. For in miſpending his time, he does not only wrong himſelf, but the State to whom he ows it.</p>
+            <p n="4">4 They who are charg'd with the care of his Breeding, are yet more guilty than he, if they do not p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ocure him the beſt, and moſt worthy a Prince, that poſſibly they can. For, beſides the injuſtice they commit againſt this Prince and the State, they moreover become Guilty of all the Faults he might have been preſerved from by a good Education.</p>
+            <p n="5">5. This Chriſtian Education directly aiming at the Eternal Happineſs of the Prince<g ref="char:punc">▪</g> and the good of his People, and apt to have effects of infinite conſe<g ref="char:EOLhyphen"/>quence, ought to be lookt on as a thing of the greateſt importance in the World. All conſiderations of Intereſt and Charge, all Humane Reſpects ought every where to give place to it. Noth<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng muſt be o<g ref="char:EOLhyphen"/>mitted, that may conduce thereunto; and whatever may prove diſadvantageous ought to be thrown aſide: In ſhort, 'tis this muſt be look'd on as the End; all
+<pb n="3" facs="tcp:171601:5"/> elſe can be conſider'd only as Means to it.</p>
+            <p n="6">6. It is certain that one of the princi<g ref="char:EOLhyphen"/>pal cares of thoſe who are intruſted with this Education, ought to be to make a good choice of ſome one or more, to whom they may commit the bringing up this young Prince. But it is impoſſible not to go raſhly to work, if the qualities neceſſary for ſuch an Employment be not known.</p>
+            <p n="7">7. The ill Choice ſometimes made on theſe occaſions, proceeds from the low Idea we have of what is neceſſary for one who undertakes the breeding of a young Prince. The moſt think it ſufficient, if ſuch an one be not Vicious; and that he have ſome Knowledge of polite Liter<g ref="char:EOLhyphen"/>ature: Others particularly <hi>Belles</hi> are deſirous that he be skill'd <hi>Lettres</hi> and converſant in <hi>Hiſtory.</hi> There are ſome who require able <hi>Mathematicians<g ref="char:punc">▪</g>
+               </hi> others conſider principly that which is call'd <hi>Knowing the World.</hi> In fine, they ordinarily have only particular and low regards, and ſuch as in no wiſe anſwer the greateſs of the end they ought to propoſe to themſelves.</p>
+            <p n="8">8. It is eaſy to diſcern That all theſe aims are mean, and that they bear no propo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tion to the end one ought to have in inſtructing a young Prince; ſince one may be endow'd with all theſe qualities, and yet be no able Man; and a Prince
+<pb n="4" facs="tcp:171601:6"/> may be very well inſtructed in <hi>Langua<g ref="char:EOLhyphen"/>ges,</hi> in <hi>Hiſtory,</hi> and <hi>Mathamaticks,</hi> and yet very ill brought up; becauſe his Judgment may be ſpoil'd, and he not at all fram'd for any of thoſe things which are of greateſt neceſſity to make him live like a Chriſtian Prince.</p>
+            <p n="9">9 For Example, <hi>Hiſtory</hi> is lookt on as of great concern for Princes, and that not without Reaſon, ſince it may ſtand them in great Stead, provided it be taught them as it ought. But, if neceſſary Ad<g ref="char:EOLhyphen"/>vice be not given, it may do them more harm than good For <hi>Hiſtory</hi> of it ſelf is but a confus'd heap of things done; Men therein mention'd are for the moſt part Vicious, Unadviſed, and Led on by the<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r Paſſions; their Actions are often related by Writers of ſmall Judgment; who praiſe and blame by Humour, and who by their Diſcourſes imprint a Thou<g ref="char:EOLhyphen"/>ſand ill Models and falſe Maximes in the Minds of thoſe who read them without a diſcerning Eye.</p>
+            <p n="10">10. A Tutor whoſe Judgment were not Acurate, might make this kind of Study much more dangerous. Such an one would indifferently fill the Mind of our young Prince with the fooleries of Books, and his own too; he would ſpoil the beſt things w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th the ill dreſs he put them in; ſo that it may often happen that whilſt he loads h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s Pupil with con<g ref="char:EOLhyphen"/>fus'd Knowledge, he ſhall only ſtifle what
+<pb n="5" facs="tcp:171601:6"/> Nature may have beſtow'd on him of right Sence or Reaſon,</p>
+            <p n="11">11. The greateſt part of things are good or bad, according as they are repre<g ref="char:EOLhyphen"/>ſented. The Story of a wicked Man's Life may ye<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ld as much Profit, as that of a Saint, if duely told; if its miſery be laid open, and a horrour of it inſtill'd: And the Life of a Saint may be as dan<g ref="char:EOLhyphen"/>gerous as that of a wicked Man, when ſo deſcrib'd as inclines us either to abuſe or contemn it.</p>
+            <p n="12">12. Sciences have their beneficialneſs and uſefulneſs, eſpecially to Princes; and they may all be taught them either in a low or mean, or in a high and ela<g ref="char:EOLhyphen"/>vated Way. There are few who know this difference; yet it is of that Impor<g ref="char:EOLhyphen"/>tance, that 'tis better to be totally ig<g ref="char:EOLhyphen"/>norant of them than to know 'em mean<g ref="char:EOLhyphen"/>ly, and to buſie ones ſelf, and to wade deep into what they have of frivolous and uſeleſs. The Praiſe <hi>Tacitus</hi> gives <hi>A<g ref="char:EOLhyphen"/>gricola</hi> is extraordinary, <hi>Retinu itque, quod eſt difficillimum, ex Sapientiâ modum.</hi> The moſt part of thoſe who are the a<g ref="char:EOLhyphen"/>bleſt in them judge the worſt; becauſe they make them the object of their Paſ<g ref="char:EOLhyphen"/>ſion, and place their Glory in the nice acurateneſs, not in the uſe and profit of their Knowledges. There are ſome able <hi>Mathematicians,</hi> who imagine 'tis the rareſt thing in the World, to know whether there be a Bridge and an Arch
+<pb n="6" facs="tcp:171601:7"/> hanging round about the Planet <hi>Saturn.</hi> A Prince ought to be acquainted with ſuch opinions, becauſe the knowledge of them coſts little: But he has wrong done him, if at the ſame time he is not taught that theſe Knowledges are but a vain cu<g ref="char:EOLhyphen"/>rioſity. For it is better to be ignorant of ſuch things, than not to know that they are frivolous, and of no uſe.</p>
+            <p n="11">11. The quality moſt eſſential to a Tutor fit to Educate a Prince, is a Quali<g ref="char:EOLhyphen"/>ty without a Name, and which is not fixt to any certain Profeſſion. It is not ſimply to be skill'd in <hi>Hiſtory,</hi> in <hi>Ma<g ref="char:EOLhyphen"/>thematicks, Languages, Politicks, Phi<g ref="char:EOLhyphen"/>loſophy,</hi> in the Ceremonies and Intereſts of Princes: all this may be ſupply'd. 'Tis not neceſſary that he who has the care of inſtructing a Prince ſhould teach him all; 'tis ſufficient he teach him the uſe of all. There is a neceſſity he ſhould ſometimes eaſe himſelf, and that whilſt he prepares and ſtudies to teach his Pu<g ref="char:EOLhyphen"/>pil ſome certain things, he ſhould only ſtand by, and be a Witneſs of what is taught him by others. But this Quality, ſo eſſential to his Employment, is not to be ſupply'd from abroad, is not to be borrow'd from others, nor procur'd by Study. It has its beginning from Nature, and is ripen'd by long exerciſe and conti<g ref="char:EOLhyphen"/>nual reflection. Thus they who have not this Quality, and are already ſtruck in Age, are uncapable of ever attaining to it.</p>
+            <p n="12">
+               <pb n="7" facs="tcp:171601:7"/> 12. Ordinary Tutors think themſelves only oblig'd to inſtruct Princes at certain hours, to wit, when they teach them what they call their Leſſon. But the Man we ſpeak of, has no ſet hour of teaching, or rather, he teaches him at every hour: For, he often inſtructs him as much in his Play, in his Viſits, in Converſation, and Table talk with thoſe preſent; as when he makes him read Books; becauſe, having for principal aim to frame his Judgment right; for this he finds the various objects, that of<g ref="char:EOLhyphen"/>fer themſelves often more available, than premeditated Diſcourſes: Since nothing ſinks leſs into the Mind, than what en<g ref="char:EOLhyphen"/>ters there, under the unpleaſant ſhape of a Leſſon or Inſtruction.</p>
+            <p n="13">13. As this way of Inſtucting is in<g ref="char:EOLhyphen"/>ſenſible, ſo alſo in a manner is the Pro<g ref="char:EOLhyphen"/>fit thereby gain'd; that is, 'tis not per<g ref="char:EOLhyphen"/>ceiv'd by certain groſs and exterior ſigns; and th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s it is that dece<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ves ſhallow Con<g ref="char:EOLhyphen"/>ſiderers, who imagine a Child taught in this manner, is not fo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>warder than ano<g ref="char:EOLhyphen"/>ther; becauſe, perhaps he cannot tran<g ref="char:EOLhyphen"/>ſlate better into his own Language a p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ece of <hi>Latin,</hi> or recite more readily a Leſſon out of <hi>Virgil.</hi> And thus judg<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng of a Child's advance, by ſuch like foole<g ref="char:EOLhyphen"/>ries, they ſhall often value a Tutor truly able, leſs than another, whoſe Knowledge ſhall be mean, and his Soul without light,</p>
+            <p n="14">
+               <pb n="8" facs="tcp:171601:8"/> 14. Not that common things ought to be neglected in the Inſtruction of a Prince. They ought to learn <hi>Languages, Hiſtory, Chronology, Geography, Mathe<g ref="char:EOLhyphen"/>maticks,</hi> and even <hi>Civil Law,</hi> to a cer<g ref="char:EOLunhyphen"/>tain degree. Their Studies ought to be regulated like thoſe of other Perſons; one ought to endeavour to make them laborious, and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>each them to go from one Employment to another, without leaving any void and unprofitable time between: All Occaſions ought to be huſ<g ref="char:EOLhyphen"/>banded with a dreſs to teach them ſeve<g ref="char:EOLhyphen"/>ral things: if poſſible, they ought to be ignorant of nothing that is remarkable in the World. All this in it ſelf is good, uſefull and neceſſary, provided we fix not here, as the laſt end of Inſtruction, but make uſe thereof, to frame their manners and judgment.</p>
+            <p n="15">15. To faſhion and frame the Judg<g ref="char:EOLhyphen"/>ment, is to make the Soul reliſh Truths, and teach it how to diſcern and know them; 'tis to make it quick-ſighted in finding out falſe ratiocinations; 'tis to learn it, not to be dazled by the vain flaſhes of Words void of Sence; not to content it ſelf with terms, or obſcure principles; and never to be ſatisfied, till it ha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>v<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d even to the bottom of things: 'tis to make it ſubtile, in find<g ref="char:EOLhyphen"/>ing where the difficulty lies in in<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>icate Queſti<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ns, and diſcern in thoſe, who flie and wander from the point: 'tis to fill
+<pb n="9" facs="tcp:171601:8"/> the Soul w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th Principles, uſeful for the finding out of Truth in all things, par<g ref="char:EOLhyphen"/>ticularly in thoſe one has moſt need of.</p>
+            <p n="16">16. In fine, a Prince muſt be made to take notice that falſity is to be met w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th every where: that there is a falſe Va<g ref="char:EOLhyphen"/>lour, a falſe Honeſty, a falſe Liberality, a falſe Gallantry, a falſe Eloquence, a falſe Railery, falſe Agreeableneſs. He muſt look very near, not to take the one for the other; and it is very difficult not to be miſtaken, when one his no rule to judge by, and only follows the impreſſion received from others.</p>
+            <p n="17">17, Moral<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ty is the Science of Men, and particularly of Princes, ſince they a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e not only Men, but ought to rule and command Men; and they cannot per<g ref="char:EOLhyphen"/>form this w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>thout they know both them<g ref="char:EOLhyphen"/>ſelves and others, in their defects and paſſions, and without they be throughly inſtructed in all their Devoirs. 'Tis then in this Science, that a Prince's Mind ought to be principally inſtructed and moulded: For as its uſe will be conti<g ref="char:EOLhyphen"/>nual, ſo alſo ought the Study thereof. It cannot be begun too ſoon, becauſe one cannot begin too ſoon to know him<g ref="char:EOLhyphen"/>ſelf: and this Study is ſo much the more conven<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ent as all things may be aſſi<g ref="char:EOLhyphen"/>ſtant to it: For Men and their Faults are to be found every-where.</p>
+            <p n="18">18. Endeavours ought to be uſed, not only to teach h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m the true Principles of
+<pb n="10" facs="tcp:171601:9"/> this Science, but alſo to let him know its neceſſity, <note place="margin">See Diſcourſe of the Neceſ<g ref="char:EOLunhyphen"/>ſity of not li<g ref="char:EOLhyphen"/>ving by ha<g ref="char:EOLhyphen"/>zard.</note> and to inſtil into him, a Love and Eſteem thereof, by making him ſenſible of the horrible unhappineſs of the moſt part of Great Ones, who paſs away their Lives in a dreadful Ignorance of what concerns them moſt; who know not what they do, nor whither they go; who fancy to themſelves that they have nothing elſe to do here, but to hunt and recreate themſelves; or to frame ambitious de<g ref="char:EOLhyphen"/>ſigns of raiſing their Families; and who, after the ſhort ſpace of a wretched Life, full of continual Illuſions, and fed with Dreams and Chimera's, at the Hour of Death, ſee all theſe vain Fantaſmes diſ<g ref="char:EOLhyphen"/>appear, whilſt they themſelves fall head<g ref="char:EOLhyphen"/>long into the utmoſt extremity of eter<g ref="char:EOLhyphen"/>nal Miſery.</p>
+            <p n="19">19. He ought to be inſtu<g ref="char:EOLhyphen"/>cted both in general duties <note place="margin">
+                  <hi>See the Trea<g ref="char:EOLhyphen"/>tiſe of Gran<g ref="char:EOLhyphen"/>deur and the</hi> 3 <hi>Diſcourſes of</hi> Monſieur Paſcal.</note> of Man, and the partic<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>lar ones of Princes; and to know how to tie and link theſe together; and above all, endeavour muſt be uſed that he inſenſibly fo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>get not (as moſt G<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ear Ones do) what is common to him with other Men, whilſt he only Buſies his Imagination a<g ref="char:EOLhyphen"/>bout what diſtinguiſhes him from them.
+<pb n="11" facs="tcp:171601:9"/> For this purpoſe, it is neceſſary to make him well comprehend the true nature of all theſe things; what greatneſs is, whence it ſprings, and where it ends; what it hath of ſolid and real, and wh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t of idle and vain; what it is that inferi<g ref="char:EOLhyphen"/>riors owe to Great Ones, and what theſe ough<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to re<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ay them: Laſtly, what it is that abaſes or ſets th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m high in the eſteem of <hi>God</hi> and Man.</p>
+            <p n="20">20. As the Love and Affection of Men are neceſſary for the Employment to which Princes are cal<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>'d, ſo a Prince ought with great care to be inſtucted in what purchaſes or looſes them, in what gains or ſhocks Mens Minds, and in what pleares or diſpleaſes the World He muſt diſcover the hidden ſources of theſe effects, and the ſecret Springs, whence flow all theſe motions; to the end he may make them P<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ay, as need ſhall re<g ref="char:EOLhyphen"/>quire. But at the ſame time, he is to be made acquainted with the vanity and foolery of this little Addreſs when he propoſes to himſelf no o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>her end, than the driving on ſome wordly deſign, or the e<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>joying the ſatisfaction of being be<g ref="char:EOLhyphen"/>lov'd. And for this reaſon he is <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o un<g ref="char:EOLhyphen"/>derſtand, That all the<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e actions may be practis'd upon the ſcore of h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gher and no<g ref="char:EOLhyphen"/>bler conſiderations, and that they may be made infinitely more ſerv<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ceable for his concerns in Heaven, than for thoſe he can have on Earth.</p>
+            <pb n="12" facs="tcp:171601:10"/>
+            <p> For Example Great <note place="margin">See the Treatiſe of Chriſtian Ci<g ref="char:EOLhyphen"/>v<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lity.</note> Ones by their very Con<g ref="char:EOLhyphen"/>dition are obliged to be in a cont<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nual exerciſe of Civilit<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>; and when they, as they ought, comply with this their Duty, it ſtands them in great ſtead to gain the Eſteem and Love of others. Yet for the moſt p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rt this Exerciſe paſſes amongſt them for a moſt vain and frivolous a<g ref="char:EOLhyphen"/>muſement. As they practiſe it with great inequality, being extream complai<g ref="char:EOLhyphen"/>ſant to ſo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e, and as fierce and rude to others, it often happens that the do not ſucceed in the Deſign they have of ma<g ref="char:EOLhyphen"/>king themſelves belov'd: And ſhould they ſucceed, it could procure them but very ſmall Advantages B<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t the ſame office<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of Civility practis'd on other mo<g ref="char:EOLhyphen"/>tiv<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s; <hi>v<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>z</hi> thoſe of Ch<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y may become a continual exerciſe of Vertue, and they by this means prod<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ce even <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ore cer<g ref="char:EOLunhyphen"/>tainly, that temporal effect or<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>in<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ly expected by them, of ga<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng the Love of <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hoſe to whom they a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e pa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d.</p>
+            <p n="21">21. In the one o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ght to make a young P<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ince obſerve, that in all parti<g ref="char:EOLhyphen"/>cular act<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ons the Laws of <hi>God</hi> are ſo equ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>table and holy that there is no readier way to g<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>n the Admi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ation of Men than by p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>act<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſing Chriſtian Vertue in the moſt heroick and elevated way; and that theſe qualities and actions wh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ch diſpleaſe <hi>God</hi> the moſt, as <hi>Inſolence, Pride, In<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uſtice,</hi>
+               <pb n="13" facs="tcp:171601:10"/> 
+               <hi>Anger,</hi> are thoſe that draw on them in greater meaſure the <hi>Contempt</hi> and <hi>Hatred</hi> of others, wherein conſiſts the Piety of a Chriſtian: And there's nothing ſo hate<g ref="char:EOLhyphen"/>ful as one who loves none but himſelf, who refers all th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ngs ſolely to himſelf, wherein conſiſts the deordination of Man.</p>
+            <p n="22">22. But though this Study ought to be the ch<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>efeſt and frequenteſt of all thoſe to which one applies a Prin<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e; yet ought it to be done in a way bearing ſuch a proportion to his Age, and the quality of his Mind that he be not over<g ref="char:EOLhyphen"/>cha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>g'd therewith; nay, that even feels it not. Endeavour muſt be us'd that he learn all Morality, w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>thout kn<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng all<g ref="char:EOLhyphen"/>moſt there is ſuch a Science, or that there is a deſign to teach him any ſuch thing; ſo that when he ſhall apply himſelf to it in the courſe of his Stud<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es he ſhall be aſton<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſhed that he knows before Hand much more than is there taught.</p>
+            <p n="23">23 There is nothing more difficult, than to find this proportion to the Un<g ref="char:EOLhyphen"/>derſtanding of Children; and it is w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th Reaſon that a Man of the Wor<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d ſaid, That, <hi>It is the Part of a ſtrong and eleva<g ref="char:EOLhyphen"/>ted Soul, to be able to proportion, and frame it ſelf to th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ways and humours of Children.</hi> 'Tis an ea<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y matter to make a Diſcourſe of Morality for an Hour to<g ref="char:EOLhyphen"/>gether; but to reduce all things to it, ſo that the Child neither perceives nor takes'd ſtaſte thereat, is what requires an
+<pb n="14" facs="tcp:171601:11"/> admirable addreſs, and ſuchas is to be found in very few.</p>
+            <p n="24">24. In Vice there are too things conſi<g ref="char:EOLunhyphen"/>derable, The <hi>Deordination,</hi> which makes them diſpleaſe Almighty <hi>God,</hi> and the <hi>Folly</hi> and <hi>Ridiculouſneſs,</hi> which makes them contemptible in the Eyes of Men. Children for the moſt part are little ſen<g ref="char:EOLhyphen"/>ſible of the firſt, but the ſecond may be inculcated to them by a Thouſand Inge<g ref="char:EOLhyphen"/>nious Ways which the Occaſions ſuggeſt. Thus by making them hate Vice as Ri<g ref="char:EOLhyphen"/>diculous, one prepares them to hate it as contrary to the Laws of <hi>God;</hi> and mean while prevents its making full im<g ref="char:EOLhyphen"/>preſſion on their Minds.</p>
+            <p n="25">25. One ought not to think it enough to enlighten his Underſtanding by many principles of Truth, which may help him to guide and regulate himſelf in his Actions: But he ought to be poſſeſt in general with a love of Truth in all things, and an adverſion from being deceived; and be made thorowly to comprehend, that it is impoſſible he ſhould not be ſo all his Life, if he does not let all thoſe who approach him know, he loves no<g ref="char:EOLhyphen"/>thing ſo much as Truth, and hates no<g ref="char:EOLhyphen"/>thing more than Lies and cheating.</p>
+            <p n="26">26. There are ſome who deceive o<g ref="char:EOLhyphen"/>thers out of Intereſt, without be<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng
+<note place="bottom">
+                  <hi>See the Treatiſe where it is ſhew'd how dan<g ref="char:EOLhyphen"/>gerous the Diſcourſes of Men are.</hi>
+               </note>
+               <pb n="15" facs="tcp:171601:11"/> deceived themſelves, but there are al<g ref="char:EOLhyphen"/>ſo a number of others who only com<g ref="char:EOLhyphen"/>municate their own Errors, that is, Thoſe Idea's and Opinions their Minds are full of, And as the Life of Great Ones paſſes in almoſt continual Commerce with Men, they are alſo more expoſed than others to this danger: ſo that if they have not á care on't, they unite in themſelves all the falſities which are to be found diſperſt amongſt other Men. He therefore who is to be inſtructed ought to be made to know how much it concerns him, not only to defend him, ſelf againſt the artificial, malignant—and intereſted Cheat of rhoſe who would ſurpriſe and impoſe upon him; but alſo againſt that other honeſt, and one may ſay, Fair-dealing Deceit, which com<g ref="char:EOLhyphen"/>monicates it ſelf; by the Diſcourſes of almoſt all thoſe with whom he will be ob<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>g'd to l<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ve; who being themſelves full <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f falſities they are not aware of, propagate the<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, without knowing it, in their diſcourſe to others.</p>
+            <p n="27">27. The ordinary cauſes of the miſe<g ref="char:EOLunhyphen"/>ries of Great ones are to be particulariz'd and taken notice of, and endeavours u<g ref="char:EOLhyphen"/>ſed to fortifie him on that ſide: And above all, he thought to be inſpir'd w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th a great horror of Civil Wars, and all kind of diſſentions, which, to Princes, a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e the cauſes of Evils almoſt irreparable, and Gulphs without bottom.</p>
+            <p n="28">
+               <pb n="16" facs="tcp:171601:12"/> 28. It is neceſſary to know the faults and defects of him we Inſtruct; that is, we muſt well obſerve whither the bent of his Concupiſcence ſways him, to the end all means and arts may be uſed to leſſen it, by taking away whatſoever may either exaſpera<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e or fortifie it; yet ſo as to diſtingu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſh always between thoſe tranſi<g ref="char:EOLunhyphen"/>ent faults wh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ch Age deſtroys, and ſuch as with years grow and get ſtrength.</p>
+            <p n="29">29. 'Tis not enough only to aim at preſerving Princes from falling, but at ſowing too in their minds certain ſeeds, which may aid them to riſe again, if they be ſo unfortunate as to fall. And theſe ſeeds are the ſolid truths of Religion, principally as to the manner of reeſta<g ref="char:EOLhyphen"/>bliſhing our ſelves in our loſt Innocence. For, though theſe truths are ſometimes obſcur'd by the intoxication of the World, when young P<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>inces beg<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n to taſte and reliſh it, yet they many times break forth again af<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>erwards, when it pleaſes God to look on them with an eye of Mercy.</p>
+            <p n="30">30 It is not only neceſſary to frame and faſhion, as much as one can, their mind to Vertue; but it is req<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iſite alſo to give their Bodies a ply and bent the<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<g ref="char:EOLhyphen"/>unto; that is, endeavours muſt be uſed that the<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r Bodies prove not an hindrance to their leading a regular L<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fe; and that they draw them not by their ſway to Debauchery and D<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſorder.</p>
+            <pb n="17" facs="tcp:171601:12"/>
+            <p> For we muſt know, That Man being compoſed of Mind and Body, the evil ply and bent that is given to the latter, during one's Youth, proves often, in the ſequel of one's Life, a very great hin<g ref="char:EOLhyphen"/>drance to Vertue. There are ſome who accuſtom themſelves to be ſo flitting, ſo impatient, ſo haſty, that they become uncapable of any regular Employments. O<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hers prove ſo nice and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ender, that they cannot endure the leaſt trouble or pain. There are ſome who give them<g ref="char:EOLhyphen"/>ſelves up to endleſs diſquiets, wherewith they are tormented all their Life time.</p>
+            <p>One may ſay, That theſe are faults of the Mind, but they have their perma<g ref="char:EOLhyphen"/>ment cauſe in the Body; and that is the reaſon they continue in them even when the Mind appears abſolutely free from them. For behold how, for example ſake, many become ſubject to theſe irk<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ome Diſquiets.</p>
+            <p n="31">31. Inſtruction aims at advancing the Mind to the higheſt point it is capable of; it requires neither Memory, Imagina<g ref="char:EOLhyphen"/>tion<g ref="char:punc">▪</g> nor Underſtanding; but it culti<g ref="char:EOLhyphen"/>vates all theſe, in fortifying rhem by one another. Judgment is help'd by Memo<g ref="char:EOLhyphen"/>ry, and Memory is refreſh'd by Imagina<g ref="char:EOLhyphen"/>tion and Judgment.</p>
+            <p n="32">32. When either of theſe is wanting, the defect muſt be ſupply'd by the reſt. Thus the great addreſs of a Maſter is to apply thoſe under his Care to ſuch ſtudies,
+<pb n="18" facs="tcp:171601:13"/> as they are naturally moſt inclin'd to. There are ſome Children almoſt only to be exerciſed in what depends on Memo<g ref="char:EOLhyphen"/>ry, becauſe their Me<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ories are ſtrong, and their Judgments weak; and there are others who ought immediately to be ſet on work about things of Judg<g ref="char:EOLhyphen"/>ment, becauſe they have more of that than of Memory.</p>
+            <p n="33">33. Properly Speaking, neither Ma<g ref="char:EOLhyphen"/>ſters nor outward Inſtructions they give, make Learners comprehend things. Theſe only expoſe them to the interior light of the Mind, by which alone they are comprehended. So that when one does not meet with this light, Inſtructi<g ref="char:EOLhyphen"/>ons prove as uſeleſs as it would be to expoſe and ſhew Pictures in the dark.</p>
+            <p n="34">34. The greateſt Wits have but limited Underſtandings. In them there are al<g ref="char:EOLhyphen"/>ways ſome cloudy and darkſome Corners: but the Underſtandings of Children are almoſt totally over caſt, they diſcover only ſome little glimpſes of light. So that the great work conſiſts in managing theſe ſmall Rays, in increaſing them, and placing therein whatſoever one would make them comprehend.</p>
+            <p n="35">35. Hence it is, that 'tis ſo difficult to give general Rules for the inſtruction of any one, becauſe they ought to be proportion'd to that mixture of light and darkneſs, which is various, according to the difference of Wits, particularly
+<pb n="19" facs="tcp:171601:13"/> in Childen. We muſt obſerve, where day in them begins to break, and thither we ought to bring whatever we would make them underſtand: And thus ſeve<g ref="char:EOLhyphen"/>ral ways muſt be try'd to get admittance into their Minds; and in thoſe we muſt perſiſt, where we find the beſt ſucceſs.</p>
+            <p n="36">36. It may nevertheleſs in general be ſaid, That the light or knowledge of Children depending very much on ſenſe, one ought, as much as poſſible, faſten to ſenſible things the Inſtructions that are given them; and, not only to make them enter by the Ear, but alſo by the Eye: there being no ſenſe that makes a more lively impreſſion on the Soul, nor that forms therein Idea's more diſtinct and clear.</p>
+            <p n="37">37. Laying hold on this hint, one may aver, That the ſtudy of Geography is very fit for Children, becauſe it depends much on the Senſes, and they may be made to ſee by their eyes the ſcituation of Towns and Provinces; beſides, it is pleaſant enough, (a neceſſary circum<g ref="char:EOLhyphen"/>ſtance not to diſcourage them at the firſt) and needs little of ratiocination, wherein they are moſt deficient at that Age.</p>
+            <p n="38">38. But to make this ſtudy at once both more profitable and pleaſant, it is not enough barely to ſhow them in Maps the Name of Towns and Provinces, but moreover ſeveral Arts and Addreſſes
+<pb n="20" facs="tcp:171601:14"/> are to he uſed to fix them in their Me<g ref="char:EOLhyphen"/>mories.</p>
+            <p>Book may be provided with the Cuts of great Towns, which they may peruſe: Children are taken with this kind of di<g ref="char:EOLhyphen"/>vertiſement. Some remarkable Hiſtory may be told of each Place, which may rivet it in the Memory. One may make them obſerve the Battel fought, the Councils held there, and the Famous Men ſprung thence. Something may be told them either of Natural Hiſtory, if any rarity be there to be found, or of their Government, Greatneſs, and Traffique. If the Towns be in <hi>France,</hi> it would not be amiſs, if one could, to let them know the Lord to whom they belong, or the Governours rhey are under.</p>
+            <p n="39">39. Beſides Geography, there are yet many other uſeful Knowledges, which may find admittance, by the ſight, into the Mind of young Children.</p>
+            <p>In the Books of <hi>Lipſius</hi> are repre<g ref="char:EOLhyphen"/>ſented in Pictures the Engines uſed in War by the <hi>Romans,</hi> with their Cloaths, Arms, Puniſhments, and ſeveral other things of this nature, which may be ſhewn to Children with much advan<g ref="char:EOLhyphen"/>tage: For example, they may there ſee what a <hi>Ram</hi> is, what a <hi>Buckler,</hi> what a <hi>Teſtudo;</hi> how the <hi>Roman</hi> Armies were drawn up, what number rheir <hi>Cohortes</hi> and <hi>Legions</hi> conſiſted of, the Officers
+<pb n="21" facs="tcp:171601:14"/> of their Armies, and an infinity of other curious and delightful things; omitting the more intricate. The ſame advan<g ref="char:EOLunhyphen"/>tage almoſt may be made of a Book call'd <hi>Roma ſubteranea,</hi> and ſome others, where may be ſeen in Cuts, what re<g ref="char:EOLhyphen"/>mains of the Antiquities of this chief City of the World. To theſe one may add the Pictures that are to be found in the Relations of certain Voyages into the <hi>Indies</hi> and <hi>China;</hi> wherein are de<g ref="char:EOLunhyphen"/>ſcribed the Sacrifices and <hi>Pagods</hi> of thoſe Wretches: And Children at the ſame time may be made to obſerve to what exceſs of Folly Man may paſs when he follows his own fancies and the dark lights of his own mind.</p>
+            <p n="40">40. <hi>Aldrovandus,</hi> or rather his A<g ref="char:EOLhyphen"/>bridgement by <hi>Johnſton,</hi> may alſo be uſe<g ref="char:EOLhyphen"/>ful for their profitable divertiſement; pro<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ided he who ſhews them have a care to tell them ſomething of the nature of the Beaſts, not by way of Leſſon, but Diſcourſe. This Book alſo ought to be made uſe of, to let them ſee the Figures and Shapes of the Beaſts they find men<g ref="char:EOLhyphen"/>tion'd either in Books or Diſcourſe.</p>
+            <p n="42">42. An ingenious Man by Tryal with one of his own Ch<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ldren, hath lately made it appear that theſe early Years are very capable of learning <hi>Anatomy:</hi> And without doubt ſome general Principles may be uſefully ſhown them<g ref="char:punc">▪</g> if it were for nothing elſe, but to make them re<g ref="char:EOLhyphen"/>member
+<pb n="22" facs="tcp:171601:15"/> the <hi>Latin</hi> Names of the parts of Humane Bodies; but one muſt have a care of leading them into ſome curio<g ref="char:EOLhyphen"/>ſities, that are dangerous in this parti<g ref="char:EOLhyphen"/>cular.</p>
+            <p n="43">43. For the ſame reaſon it would be profitable to let them ſee the Portrai<g ref="char:EOLhyphen"/>ctures of the Kings of <hi>France,</hi> of the <hi>Roman</hi> Emperours, of the <hi>Sultans;</hi> of great Captains, and of the famous He<g ref="char:EOLhyphen"/>roes of ſeveral Nations. It is good they ſhould take Pleaſure in viewing theſe in Books of Pictures, and that they ſhould have recourſe thereunto as often as mention thereof is made. Fot all this ſerves to fix Notions and Idea's in their Memory.</p>
+            <p n="44">44. One ought to endeavour to incline the Minds of Children to a commendable curioſity of ſeeing things that are ſtrange and curious, and encourage them to be inquiſitive of the reaſons of whatſoever occurs. This Curioſity is no fault in their Age, becauſe it opens and enlarges their Minds, and diverts them from ma<g ref="char:EOLhyphen"/>ny ill turns.</p>
+            <trailer>The End of the firſt Part.</trailer>
+            <pb facs="tcp:171601:15"/>
+         </div>
+      </body>
+   </text>
+</TEI>
